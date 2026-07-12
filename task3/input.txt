@@ -1,0 +1,13 @@
+Contact us at support@gmail.com
+
+Sales: sales@yahoo.com
+
+HR Email:
+hr@company.com
+
+Personal:
+mithra123@gmail.com
+
+Invalid:
+abc@gmail
+xyz@.com
