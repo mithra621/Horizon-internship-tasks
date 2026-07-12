@@ -1,0 +1,8 @@
+===== Stock Portfolio Summary =====
+AAPL | Quantity: 3 | Investment: $540
+TSLA | Quantity: 5 | Investment: $1250
+AMZN | Quantity: 7 | Investment: $945
+GOOGL | Quantity: 9 | Investment: $1260
+MSFT | Quantity: 9 | Investment: $2970
+
+Total Investment Value: $6965
